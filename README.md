@@ -1,0 +1,2 @@
+# NeonEnvConfig
+setup neon node
